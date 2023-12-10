@@ -1,0 +1,24 @@
+{
+    "terminal.integrated.shell.windows": "C:\\WINDOWS\\System32\\cmd.exe",
+    // "python.defaultInterpreterPath": "C:\\Users\\user\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "notebook.lineNumbers": "on",
+    "notebook.output.textLineLimit": 500,
+    "python.dataScience.textOutputLimit": 0,
+    "files.maxMemoryForLargeFilesMB": 8192,
+    "python.autoComplete.extraPaths": [
+    
+    ],
+    "python.analysis.extraPaths": [],
+    "remote.SSH.remotePlatform": {
+        "132.64.80.55": "windows"
+    },
+    "git.ignoreMissingGitWarning": true,
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 300,
+    "extensions.autoUpdate": false,
+    "[python]": {
+    },
+    "extensions.ignoreRecommendations": true,
+    "editor.inlineSuggest.enabled": true,
+    "workbench.startupEditor": "none",
+}

@@ -1,0 +1,5 @@
+﻿type,type_name,class,class_name
+0,non_termination,1,not_terminates
+1,self_terminates,0,terminates
+2,terminates_immediatly,1,not_terminates
+

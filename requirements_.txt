@@ -1,0 +1,12 @@
+pip3 install ipython ipykernel notebook tqdm seaborn pandas numpy matplotlib scikit_learn arff torch torchvision pytorch_lightning torchmetrics  torchaudio tsai tsai[extras] tensorboard clearml clearml-agent optuna shap xgboost umap-learn  lightgbm scanpy anndata 
+pip3 install fastai
+pip3 install torch+cu121 torchvision+cu121 torchaudio+cu121
+# pip install gluonts pip install "gluonts[torch]" - forecast
+# math imfit
+
+git clone https://github.com/yishaiar/sktime
+pip install H:\Desktop\sktime\sktime
+
+pip install tensorflow[and-cuda]
+pip install tensorrt
+pip install keras-self-attention

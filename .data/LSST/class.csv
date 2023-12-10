@@ -1,0 +1,9 @@
+﻿type,type_name,class,class_name
+Badminton,Badminton,1,sport
+Running,Running,1,sport
+Standing,Standing,0,not_sport
+Walking,Walking,0,not_sport
+
+
+#6,'15', '16','42': '52', '53','62','64','65','67','88', '90', '92': 12, '95': 13
+#6,15,16,42,52,53,62,64,65,67,88,90,92,95,99

@@ -1,0 +1,6 @@
+﻿type,type_name,class,class_name
+Badminton,Badminton,1,sport
+Running,Running,1,sport
+Standing,Standing,0,not_sport
+Walking,Walking,0,not_sport
+
